@@ -7,6 +7,24 @@ body
 
 }
 
+.container
+{
+	width: 960px;
+	margin: 0 auto;
+}
+
+/* Collapsing header */
+.header
+{
+	height: 100px;
+	top: 0px;
+	width: 100%;
+	z-index: 10;
+	position: fixed;
+	background: #fff;
+	border-bottom: solid thin #ccc;
+}
+
 .image
 {
 	max-width: 10px;
