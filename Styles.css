@@ -27,7 +27,7 @@ body
 
 .logo
 {
-	float: center;
+	align: center;
 	font-family: "Raleway", sans-serif;
 	font-size:20px;
 	color: #0022B7;
