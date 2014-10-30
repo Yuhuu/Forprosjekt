@@ -25,6 +25,14 @@ body
 	border-bottom: solid thin #ccc;
 }
 
+.logo
+{
+	float: left;
+	font-family: "Raleway", sans-serif;
+	font-size:20px;
+	color: #0022B7;
+}
+
 .image
 {
 	max-width: 10px;
