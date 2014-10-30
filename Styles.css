@@ -33,3 +33,11 @@ body
 	color: #0022B7;
 }
 
+#wrapper
+{	
+	width: 1040px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: fixed;
+}
+
